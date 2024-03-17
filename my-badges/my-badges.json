@@ -1,0 +1,79 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/wcrum/wcrum.dev/commit/a4ed650799bbd4b16f0fe536135bb41dfeb01602\"><strong>a</strong>4ed650799bbd4b16f0fe536135bb41dfeb01602</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/wcrum/wcrum/commit/0ec7504d5a83188d237f3ce0ba5509082f74d803\">0ec7504</a>\n- <a href=\"https://github.com/wcrum/wcrum/commit/acd6b082fa448dea4ba1912bc42896c1618ace75\">acd6b08</a>\n- <a href=\"https://github.com/wcrum/.github/commit/f015c875fefd179b43f92d0bd19f80067c0d270f\">f015c87</a>\n- <a href=\"https://github.com/wcrum/.github/commit/0d6adb2a60fd72fe717e830ca0d45694aba99eb0\">0d6adb2</a>\n- <a href=\"https://github.com/wcrum/py-cot/commit/64e3ad13f06f31d9c1449442464ba480365ee792\">64e3ad1</a>\n- <a href=\"https://github.com/wcrum/py-cot/commit/e5cddf94f98624ed8d86d0c0063ac5c6e291ee62\">e5cddf9</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/wcrum/py-cot/commit/fd6e6cc8f9914a3655696b949f180be6984311f9\">fd6e6cc</a>\n- <a href=\"https://github.com/wcrum/py-cot/commit/6636a6e84cfbe530283277a60f3891486f692b6d\">6636a6e</a>\n- <a href=\"https://github.com/wcrum/astro-wcrum.dev/commit/10464d0961354da8addf2798996c291de90d8e7a\">10464d0</a>\n- <a href=\"https://github.com/wcrum/astro-wcrum.dev/commit/e6f1276b342a2935f247362b5139e1750a3a75e9\">e6f1276</a>\n- <a href=\"https://github.com/wcrum/astro-wcrum.dev/commit/b5a003fe1f2d05f1924e92e61eb7b0adbd43e730\">b5a003f</a>\n- <a href=\"https://github.com/wcrum/astro-wcrum.dev/commit/17fde7904a960e62af549218dc1e64d8a6bcb444\">17fde79</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/wcrum/wcrum.dev/commit/fccb14f8915f83e8ed4e508a10a04a24276b93ef\">fccb14f</a>\n- <a href=\"https://github.com/wcrum/wmp-tak/commit/b304a8073b42dd0d8e81780c9c74e47bc7709cb1\">b304a80</a>\n- <a href=\"https://github.com/wcrum/wmp-tak/commit/2fed46e7ea251971f1299a160cdb4540cb6b5bb3\">2fed46e</a>\n- <a href=\"https://github.com/marinecoders/marines.dev/commit/c7a96b42e48559e8e09182420979a3877fe49d22\">c7a96b4</a>\n- <a href=\"https://github.com/marinecoders/marines.dev/commit/3086b09bc20d9d16e6f51273821f62d945b15aa7\">3086b09</a>\n- <a href=\"https://github.com/marinecoders/marines.dev/commit/5d9e460ef7998933c4cd4027bb86dda2170ba709\">5d9e460</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/marinecoders/marines.dev/commit/9ad7b83b39c46ef4bbc783cd07803309a6a8e466\">9ad7b83</a>: Fixed Missing Search Bar\n- <a href=\"https://github.com/marinecoders/marines.dev/commit/2bbaa77eda0dc27ab4506e3f6f319b9cab9e47e4\">2bbaa77</a>: Fix Spelling in Blog",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/spectrocloud-labs/validator-plugin-aws/commit/435f88fd2ba22c2dba9b27beabc441a585a21313\">435f88f</a>: chore: add arch configuration for docker-build make target (#117)\n\n* Update Makefile\n\n* fix: specify targetarch for all stages in Dockerfile; use GOARCH\n\nSigned-off-by: Tyler Gillson <tyler.gillson@gmail.com>\n\n---------\n\nSigned-off-by: Tyler Gillson <tyler.gillson@gmail.com>\nCo-authored-by: Tyler Gillson <tyler.gillson@gmail.com>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/chore-commit/chore-commit.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-1.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 89 times)\n2. to (used 53 times)\n3. readme.md (used 46 times)\n4. and (used 36 times)\n5. from (used 29 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/marinecoders/marinecoders.github.io/issues/105\">#105</a>: OSSAR Github Action Consistently Failing Issue\n- <a href=\"https://github.com/marinecoders/marines.dev/issues/19\">#19</a>: Testing JQuery Github API Issues Search",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
+  }
+]
