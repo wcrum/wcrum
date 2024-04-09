@@ -17,14 +17,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/wcrum/py-cot/commit/fd6e6cc8f9914a3655696b949f180be6984311f9\">fd6e6cc</a>\n- <a href=\"https://github.com/wcrum/py-cot/commit/6636a6e84cfbe530283277a60f3891486f692b6d\">6636a6e</a>\n- <a href=\"https://github.com/wcrum/astro-wcrum.dev/commit/10464d0961354da8addf2798996c291de90d8e7a\">10464d0</a>\n- <a href=\"https://github.com/wcrum/astro-wcrum.dev/commit/e6f1276b342a2935f247362b5139e1750a3a75e9\">e6f1276</a>\n- <a href=\"https://github.com/wcrum/astro-wcrum.dev/commit/b5a003fe1f2d05f1924e92e61eb7b0adbd43e730\">b5a003f</a>\n- <a href=\"https://github.com/wcrum/astro-wcrum.dev/commit/17fde7904a960e62af549218dc1e64d8a6bcb444\">17fde79</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/7cf23167b3d9cf95b88547b928869282e4d09106\">7cf2316</a>\n- <a href=\"https://github.com/wcrum/py-cot/commit/fd6e6cc8f9914a3655696b949f180be6984311f9\">fd6e6cc</a>\n- <a href=\"https://github.com/wcrum/py-cot/commit/6636a6e84cfbe530283277a60f3891486f692b6d\">6636a6e</a>\n- <a href=\"https://github.com/wcrum/astro-wcrum.dev/commit/10464d0961354da8addf2798996c291de90d8e7a\">10464d0</a>\n- <a href=\"https://github.com/wcrum/astro-wcrum.dev/commit/e6f1276b342a2935f247362b5139e1750a3a75e9\">e6f1276</a>\n- <a href=\"https://github.com/wcrum/astro-wcrum.dev/commit/b5a003fe1f2d05f1924e92e61eb7b0adbd43e730\">b5a003f</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/wcrum/wcrum.dev/commit/fccb14f8915f83e8ed4e508a10a04a24276b93ef\">fccb14f</a>\n- <a href=\"https://github.com/wcrum/wmp-tak/commit/b304a8073b42dd0d8e81780c9c74e47bc7709cb1\">b304a80</a>\n- <a href=\"https://github.com/wcrum/wmp-tak/commit/2fed46e7ea251971f1299a160cdb4540cb6b5bb3\">2fed46e</a>\n- <a href=\"https://github.com/marinecoders/marines.dev/commit/c7a96b42e48559e8e09182420979a3877fe49d22\">c7a96b4</a>\n- <a href=\"https://github.com/marinecoders/marines.dev/commit/3086b09bc20d9d16e6f51273821f62d945b15aa7\">3086b09</a>\n- <a href=\"https://github.com/marinecoders/marines.dev/commit/5d9e460ef7998933c4cd4027bb86dda2170ba709\">5d9e460</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/d4bfa93c7213ac1503d4c64664d1127f1a339dbd\">d4bfa93</a>\n- <a href=\"https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/17bb98524ac357dd64464a8bca38d6ae10a07a97\">17bb985</a>\n- <a href=\"https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/eae9f24de26a034323012cd39cd88b7462673fc9\">eae9f24</a>\n- <a href=\"https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/b8cad123b9164260c55b6015cb1c7518a2b56719\">b8cad12</a>\n- <a href=\"https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/c8fb5fe61be371c218e5d83c0e00d684cdb066e3\">c8fb5fe</a>\n- <a href=\"https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/bb99b2a309270370fb30654fae30536e96248e88\">bb99b2a</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -38,14 +38,14 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/marinecoders/marines.dev/commit/9ad7b83b39c46ef4bbc783cd07803309a6a8e466\">9ad7b83</a>: Fixed Missing Search Bar\n- <a href=\"https://github.com/marinecoders/marines.dev/commit/2bbaa77eda0dc27ab4506e3f6f319b9cab9e47e4\">2bbaa77</a>: Fix Spelling in Blog",
+    "body": "Commits:\n\n- <a href=\"https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/9a50145500c8d58868f6ff2eae7bb7a0191e7b1c\">9a50145</a>: fix: update v1 to v1alpha1 and CRD\n- <a href=\"https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/62fbc75da3218a10b58a81fd0462f4e926c5512e\">62fbc75</a>: fix: group version, namespace, vuln counter\n\n- 7cf2316 broke install due to group version\n- support separate namespace install for kubescape\n- fix vulnerability counter",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/spectrocloud-labs/validator-plugin-aws/commit/435f88fd2ba22c2dba9b27beabc441a585a21313\">435f88f</a>: chore: add arch configuration for docker-build make target (#117)\n\n* Update Makefile\n\n* fix: specify targetarch for all stages in Dockerfile; use GOARCH\n\nSigned-off-by: Tyler Gillson <tyler.gillson@gmail.com>\n\n---------\n\nSigned-off-by: Tyler Gillson <tyler.gillson@gmail.com>\nCo-authored-by: Tyler Gillson <tyler.gillson@gmail.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/d4bfa93c7213ac1503d4c64664d1127f1a339dbd\">d4bfa93</a>: chore: add extra files",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/chore-commit/chore-commit.png?raw=true"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 91 times)\n2. to (used 53 times)\n3. readme.md (used 46 times)\n4. and (used 36 times)\n5. from (used 29 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 95 times)\n2. to (used 63 times)\n3. readme.md (used 48 times)\n4. and (used 40 times)\n5. from (used 31 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {

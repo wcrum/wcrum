@@ -4,8 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/marinecoders/marines.dev/commit/9ad7b83b39c46ef4bbc783cd07803309a6a8e466">9ad7b83</a>: Fixed Missing Search Bar
-- <a href="https://github.com/marinecoders/marines.dev/commit/2bbaa77eda0dc27ab4506e3f6f319b9cab9e47e4">2bbaa77</a>: Fix Spelling in Blog
+- <a href="https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/9a50145500c8d58868f6ff2eae7bb7a0191e7b1c">9a50145</a>: fix: update v1 to v1alpha1 and CRD
+- <a href="https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/62fbc75da3218a10b58a81fd0462f4e926c5512e">62fbc75</a>: fix: group version, namespace, vuln counter
+
+- 7cf2316 broke install due to group version
+- support separate namespace install for kubescape
+- fix vulnerability counter
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

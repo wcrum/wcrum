@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/wcrum/wcrum.dev/commit/fccb14f8915f83e8ed4e508a10a04a24276b93ef">fccb14f</a>
-- <a href="https://github.com/wcrum/wmp-tak/commit/b304a8073b42dd0d8e81780c9c74e47bc7709cb1">b304a80</a>
-- <a href="https://github.com/wcrum/wmp-tak/commit/2fed46e7ea251971f1299a160cdb4540cb6b5bb3">2fed46e</a>
-- <a href="https://github.com/marinecoders/marines.dev/commit/c7a96b42e48559e8e09182420979a3877fe49d22">c7a96b4</a>
-- <a href="https://github.com/marinecoders/marines.dev/commit/3086b09bc20d9d16e6f51273821f62d945b15aa7">3086b09</a>
-- <a href="https://github.com/marinecoders/marines.dev/commit/5d9e460ef7998933c4cd4027bb86dda2170ba709">5d9e460</a>
+- <a href="https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/d4bfa93c7213ac1503d4c64664d1127f1a339dbd">d4bfa93</a>
+- <a href="https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/17bb98524ac357dd64464a8bca38d6ae10a07a97">17bb985</a>
+- <a href="https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/eae9f24de26a034323012cd39cd88b7462673fc9">eae9f24</a>
+- <a href="https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/b8cad123b9164260c55b6015cb1c7518a2b56719">b8cad12</a>
+- <a href="https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/c8fb5fe61be371c218e5d83c0e00d684cdb066e3">c8fb5fe</a>
+- <a href="https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/bb99b2a309270370fb30654fae30536e96248e88">bb99b2a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

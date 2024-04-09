@@ -4,18 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/spectrocloud-labs/validator-plugin-aws/commit/435f88fd2ba22c2dba9b27beabc441a585a21313">435f88f</a>: chore: add arch configuration for docker-build make target (#117)
-
-* Update Makefile
-
-* fix: specify targetarch for all stages in Dockerfile; use GOARCH
-
-Signed-off-by: Tyler Gillson <tyler.gillson@gmail.com>
-
----------
-
-Signed-off-by: Tyler Gillson <tyler.gillson@gmail.com>
-Co-authored-by: Tyler Gillson <tyler.gillson@gmail.com>
+- <a href="https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/d4bfa93c7213ac1503d4c64664d1127f1a339dbd">d4bfa93</a>: chore: add extra files
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
