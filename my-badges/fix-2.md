@@ -4,12 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/9a50145500c8d58868f6ff2eae7bb7a0191e7b1c">9a50145</a>: fix: update v1 to v1alpha1 and CRD
-- <a href="https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/62fbc75da3218a10b58a81fd0462f4e926c5512e">62fbc75</a>: fix: group version, namespace, vuln counter
-
-- 7cf2316 broke install due to group version
-- support separate namespace install for kubescape
-- fix vulnerability counter
+- <a href="https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/7cf23167b3d9cf95b88547b928869282e4d09106">7cf2316</a>: fix: v1 to v1alpha1
+- <a href="https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/c2b954c97180a2a62f5b74469ba133b8957c3a7f">c2b954c</a>: fix: add ReconcileFlaggedCVERule and update global manifest
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
