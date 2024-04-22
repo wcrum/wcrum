@@ -1,3 +1,7 @@
+<img width="100px" src="/marine_gopher.svg"/>
+
+Inspired by @ashleymcnamara @reneefrench
+
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
 
