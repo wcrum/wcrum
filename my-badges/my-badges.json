@@ -10,7 +10,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/96a1825fb157d227b67e2764bec155ecb1dc0d86\">96a1825</a>\n- <a href=\"https://github.com/wcrum/wcrum/commit/5a3e60e50f316719ea545f3e7581c6dc35083a0f\">5a3e60e</a>\n- <a href=\"https://github.com/wcrum/wcrum/commit/0ec7504d5a83188d237f3ce0ba5509082f74d803\">0ec7504</a>\n- <a href=\"https://github.com/wcrum/wcrum/commit/acd6b082fa448dea4ba1912bc42896c1618ace75\">acd6b08</a>\n- <a href=\"https://github.com/wcrum/.github/commit/f015c875fefd179b43f92d0bd19f80067c0d270f\">f015c87</a>\n- <a href=\"https://github.com/wcrum/.github/commit/0d6adb2a60fd72fe717e830ca0d45694aba99eb0\">0d6adb2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/wcrum/wcrum/commit/bb255a1a20b8a25cd11f456d35cc22545ee52a9d\">bb255a1</a>\n- <a href=\"https://github.com/wcrum/wcrum/commit/0aa555e265609949841c943e89df0417d69fe4c6\">0aa555e</a>\n- <a href=\"https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/96a1825fb157d227b67e2764bec155ecb1dc0d86\">96a1825</a>\n- <a href=\"https://github.com/wcrum/wcrum/commit/5a3e60e50f316719ea545f3e7581c6dc35083a0f\">5a3e60e</a>\n- <a href=\"https://github.com/wcrum/wcrum/commit/0ec7504d5a83188d237f3ce0ba5509082f74d803\">0ec7504</a>\n- <a href=\"https://github.com/wcrum/wcrum/commit/acd6b082fa448dea4ba1912bc42896c1618ace75\">acd6b08</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 95 times)\n2. to (used 64 times)\n3. readme.md (used 48 times)\n4. and (used 40 times)\n5. from (used 31 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 96 times)\n2. to (used 64 times)\n3. readme.md (used 49 times)\n4. and (used 40 times)\n5. from (used 31 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {

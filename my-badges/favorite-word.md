@@ -4,9 +4,9 @@
 
 My favorite commit message words are:
 
-1. update (used 95 times)
+1. update (used 96 times)
 2. to (used 64 times)
-3. readme.md (used 48 times)
+3. readme.md (used 49 times)
 4. and (used 40 times)
 5. from (used 31 times)
 
