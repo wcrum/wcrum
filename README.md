@@ -1,4 +1,4 @@
-<img width="100px" src="/marine_gopher.svg"/>
+<img width="100px" src="/marine_gopher.png"/><img width="100px" src="/army_gopher.png"/><img width="100px" src="/sailor_gopher.png"/><img width="100px" src="/airmen_gopher.png"/>
 
 Inspired by @ashleymcnamara @reneefrench
 
