@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/d4bfa93c7213ac1503d4c64664d1127f1a339dbd">d4bfa93</a>: chore: add extra files
+- <a href="https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/be530174c2914160fdcac82f0c42e34104debe31">be53017</a>: chore: add github workflows
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -45,7 +45,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/d4bfa93c7213ac1503d4c64664d1127f1a339dbd\">d4bfa93</a>: chore: add extra files",
+    "body": "Commits:\n\n- <a href=\"https://github.com/spectrocloud-labs/validator-plugin-kubescape/commit/be530174c2914160fdcac82f0c42e34104debe31\">be53017</a>: chore: add github workflows",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/chore-commit/chore-commit.png?raw=true"
   },
   {
