@@ -5,8 +5,8 @@
 I use words like "thanks" and "please" in my issues:
 
 - <a href="https://github.com/marinecoders/marinecoders.github.io/issues/105">#105</a>: OSSAR Github Action Consistently Failing Issue
-- <a href="https://github.com/hauler-dev/hauler/issues/273">#273</a>: [feature] TLS Support for Serve
 - <a href="https://github.com/marinecoders/marines.dev/issues/19">#19</a>: Testing JQuery Github API Issues Search
+- <a href="https://github.com/hauler-dev/hauler/issues/273">#273</a>: [feature] TLS Support for Serve
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
