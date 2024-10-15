@@ -6,12 +6,12 @@ Repos:
 
 * <a href="https://github.com/marinecoders/marinecoders.github.io">marinecoders/marinecoders.github.io: ★24</a>
 * <a href="https://github.com/wcrum/py-cot">wcrum/py-cot: ★19</a>
-* <a href="https://github.com/validator-labs/validator">validator-labs/validator: ★15</a>
+* <a href="https://github.com/validator-labs/validator">validator-labs/validator: ★16</a>
 * <a href="https://github.com/wcrum/is-it-down">wcrum/is-it-down: ★9</a>
 * <a href="https://github.com/wcrum/military-gophers">wcrum/military-gophers: ★5</a>
 * <a href="https://github.com/validator-labs/validator-plugin-kubescape">validator-labs/validator-plugin-kubescape: ★4</a>
 * <a href="https://github.com/validator-labs/validator-plugin-aws">validator-labs/validator-plugin-aws: ★4</a>
-* <a href="https://github.com/marinecoders/marines.dev">marinecoders/marines.dev: ★3</a>
+* <a href="https://github.com/marinecoders/marines.dev">marinecoders/marines.dev: ★4</a>
 * <a href="https://github.com/wcrum/wcrum">wcrum/wcrum: ★2</a>
 * <a href="https://github.com/wcrum/uniformed.dev">wcrum/uniformed.dev: ★2</a>
 * <a href="https://github.com/wcrum/banner-injector">wcrum/banner-injector: ★2</a>
