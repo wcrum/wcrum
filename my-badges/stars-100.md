@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/marinecoders/marinecoders.github.io">marinecoders/marinecoders.github.io: ★24</a>
-* <a href="https://github.com/wcrum/py-cot">wcrum/py-cot: ★19</a>
+* <a href="https://github.com/wcrum/py-cot">wcrum/py-cot: ★20</a>
 * <a href="https://github.com/validator-labs/validator">validator-labs/validator: ★16</a>
 * <a href="https://github.com/wcrum/is-it-down">wcrum/is-it-down: ★9</a>
 * <a href="https://github.com/wcrum/military-gophers">wcrum/military-gophers: ★5</a>
