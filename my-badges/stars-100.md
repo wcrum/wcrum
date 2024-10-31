@@ -21,7 +21,6 @@ Repos:
 * <a href="https://github.com/wcrum/marinecoders.github.io">wcrum/marinecoders.github.io: ★1</a>
 * <a href="https://github.com/wcrum/lines">wcrum/lines: ★1</a>
 * <a href="https://github.com/wcrum/librarium">wcrum/librarium: ★1</a>
-* <a href="https://github.com/wcrum/kairos-docs">wcrum/kairos-docs: ★1</a>
 * <a href="https://github.com/wcrum/elisoncrum">wcrum/elisoncrum: ★1</a>
 * <a href="https://github.com/wcrum/code.mil">wcrum/code.mil: ★1</a>
 * <a href="https://github.com/wcrum/cluster-api-provider-aws">wcrum/cluster-api-provider-aws: ★1</a>
