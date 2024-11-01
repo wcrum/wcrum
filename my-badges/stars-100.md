@@ -14,6 +14,7 @@ Repos:
 * <a href="https://github.com/marinecoders/marines.dev">marinecoders/marines.dev: ★4</a>
 * <a href="https://github.com/wcrum/wcrum">wcrum/wcrum: ★2</a>
 * <a href="https://github.com/wcrum/uniformed.dev">wcrum/uniformed.dev: ★2</a>
+* <a href="https://github.com/wcrum/image-shift">wcrum/image-shift: ★2</a>
 * <a href="https://github.com/wcrum/banner-injector">wcrum/banner-injector: ★2</a>
 * <a href="https://github.com/wcrum/wcrum.dev">wcrum/wcrum.dev: ★1</a>
 * <a href="https://github.com/wcrum/spectrocloud-browser">wcrum/spectrocloud-browser: ★1</a>
