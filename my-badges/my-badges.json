@@ -117,5 +117,12 @@
     "desc": "I made an epic commit with a message over 500 chars.",
     "body": "Commits:\n\n- <a href=\"https://github.com/wcrum/librarium/commit/9909d5d04ddd6732ef9a5a202905de96e31f7320\">9909d5d</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/marinecoders/marines.dev/commit/b3fb659ff9bef8d746f14913bd8ae80bfa84cd82\">b3fb659</a>\n- <a href=\"https://github.com/marinecoders/marines.dev/commit/87d0e81c96e695ece4862c2b47515b5c8cdad27e\">87d0e81</a>\n- <a href=\"https://github.com/marinecoders/marines.dev/commit/3a2502232a63983b02adc633351c0a4dd03c4269\">3a25022</a>\n- <a href=\"https://github.com/marinecoders/marines.dev/commit/7cf85feed67f86d20796f0d83d2ddb76b1454d56\">7cf85fe</a>\n- <a href=\"https://github.com/marinecoders/marines.dev/commit/2f6b0d234da11338e62a45e59d93111ed60690c5\">2f6b0d2</a>\n- <a href=\"https://github.com/marinecoders/marines.dev/commit/650edbf3e9d5eb1b1e7bef4e3584ac4d791ffa97\">650edbf</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   }
 ]
