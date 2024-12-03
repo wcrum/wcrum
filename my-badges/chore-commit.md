@@ -4,19 +4,21 @@
 
 Commits:
 
-- <a href="https://github.com/validator-labs/validator/commit/7a0dcd41f8b626e463810694d3cd990235213700">7a0dcd4</a>: chore: update kubescape version (#248)
+- <a href="https://github.com/wcrum/librarium/commit/860b2a13bb805816922316d7999ebfd4b791c52d">860b2a1</a>: chore: correct wording of pxk (#4197)
 
-* chore: update kubescape version
+* fix wording of pxk
 
-* fix: gosec warning in alertmanager.go
+* ci: auto-formatting prettier issues
 
-Signed-off-by: Tyler Gillson <tyler.gillson@gmail.com>
+* docs: more content
+
+* docs: vale suggestions
 
 ---------
 
-Signed-off-by: will <30413278+wcrum@users.noreply.github.com>
-Signed-off-by: Tyler Gillson <tyler.gillson@gmail.com>
-Co-authored-by: Tyler Gillson <tyler.gillson@gmail.com>
+Co-authored-by: wcrum <wcrum@users.noreply.github.com>
+Co-authored-by: Karl Cardenas <karl@spectrocloud.com>
+Co-authored-by: Karl Cardenas <29551334+karl-cardenas-coding@users.noreply.github.com>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

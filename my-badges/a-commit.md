@@ -2,7 +2,7 @@
 <strong>One of my commit sha starts with &quot;a&quot;.</strong>
 <br><br>
 
-- <a href="https://github.com/wcrum/wcrum.dev/commit/a4ed650799bbd4b16f0fe536135bb41dfeb01602"><strong>a</strong>4ed650799bbd4b16f0fe536135bb41dfeb01602</a>
+- <a href="https://github.com/wcrum/lines/commit/a8b151d33be31eec1a349673edca60541ee4e398"><strong>a</strong>8b151d33be31eec1a349673edca60541ee4e398</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
