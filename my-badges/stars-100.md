@@ -13,7 +13,6 @@ Repos:
 * <a href="https://github.com/validator-labs/validator-plugin-aws">validator-labs/validator-plugin-aws: ★4</a>
 * <a href="https://github.com/wcrum/wcrum">wcrum/wcrum: ★4</a>
 * <a href="https://github.com/validator-labs/validator-plugin-kubescape">validator-labs/validator-plugin-kubescape: ★4</a>
-* <a href="https://github.com/spectrocloud-labs/mural">spectrocloud-labs/mural: ★3</a>
 * <a href="https://github.com/wcrum/banner-injector">wcrum/banner-injector: ★2</a>
 * <a href="https://github.com/wcrum/uniformed.dev">wcrum/uniformed.dev: ★2</a>
 * <a href="https://github.com/wcrum/image-shift">wcrum/image-shift: ★2</a>
@@ -27,7 +26,6 @@ Repos:
 * <a href="https://github.com/wcrum/big-bang">wcrum/big-bang: ★1</a>
 * <a href="https://github.com/wcrum/astro-wcrum.dev">wcrum/astro-wcrum.dev: ★1</a>
 * <a href="https://github.com/wcrum/spectrocloud-browser">wcrum/spectrocloud-browser: ★1</a>
-* <a href="https://github.com/avg-genius/Quantum-OS">avg-genius/Quantum-OS: ★1</a>
 * <a href="https://github.com/wcrum/cluster-api-provider-aws">wcrum/cluster-api-provider-aws: ★1</a>
 * <a href="https://github.com/wcrum/chainguard-image-watcher">wcrum/chainguard-image-watcher: ★1</a>
 * <a href="https://github.com/wcrum/rapidfort">wcrum/rapidfort: ★1</a>
