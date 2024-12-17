@@ -10,14 +10,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/wcrum/image-shift/commit/cb2f5b4e437798c5550abc1f764d95e66fd0e5b3\">cb2f5b4</a>\n- <a href=\"https://github.com/wcrum/archivista/commit/a72adb868cf0240dfef867aebaa6e082691bc22b\">a72adb8</a>\n- <a href=\"https://github.com/wcrum/archivista/commit/f1b2bdb4063bcfda5447c212245d365a7931f55c\">f1b2bdb</a>\n- <a href=\"https://github.com/wcrum/archivista/commit/f8a3c13a2b7489ea66c8817380e92cf22a08982e\">f8a3c13</a>\n- <a href=\"https://github.com/wcrum/archivista/commit/468750a1f2fc253d1b42820597c0b29bad2e1747\">468750a</a>\n- <a href=\"https://github.com/wcrum/archivista/commit/60d58009fc30c976e03b6a82d6b98bf489bd7aba\">60d5800</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/wcrum/hauler/commit/7428614d04f5afd91ff0a1fedea1c4f5b65b055e\">7428614</a>\n- <a href=\"https://github.com/wcrum/hauler/commit/8d561975e61d7ada39ba9bf5c134c893edf4ef51\">8d56197</a>\n- <a href=\"https://github.com/wcrum/hauler/commit/1593ecc76fa5c8aae976afb40ac805101ffa4304\">1593ecc</a>\n- <a href=\"https://github.com/wcrum/image-shift/commit/cb2f5b4e437798c5550abc1f764d95e66fd0e5b3\">cb2f5b4</a>\n- <a href=\"https://github.com/wcrum/charts/commit/e82cf473ee67c457e6ad2ab635e04fdcb4bcf001\">e82cf47</a>\n- <a href=\"https://github.com/wcrum/charts/commit/e0e1312aba5360010aca8410e8a42c35910983b0\">e0e1312</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/wcrum/hauler/commit/26f568732552cb35724cefcd4f988b41437ca1d6\">26f5687</a>\n- <a href=\"https://github.com/wcrum/chainguard-image-watcher/commit/afd27dd777f6546a2ab88f2b5e52af4d0a526c23\">afd27dd</a>\n- <a href=\"https://github.com/wcrum/chainguard-image-watcher/commit/94e7e70af8486b316632e20830b11511c1c22849\">94e7e70</a>\n- <a href=\"https://github.com/wcrum/chainguard-image-watcher/commit/599fb32f6591eefd602fb35e2bb075fd9b4b2f9c\">599fb32</a>\n- <a href=\"https://github.com/validator-labs/validator-plugin-kubescape/commit/7cf23167b3d9cf95b88547b928869282e4d09106\">7cf2316</a>\n- <a href=\"https://github.com/wcrum/py-cot/commit/fd6e6cc8f9914a3655696b949f180be6984311f9\">fd6e6cc</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/wcrum/chainguard-image-watcher/commit/afd27dd777f6546a2ab88f2b5e52af4d0a526c23\">afd27dd</a>\n- <a href=\"https://github.com/wcrum/chainguard-image-watcher/commit/94e7e70af8486b316632e20830b11511c1c22849\">94e7e70</a>\n- <a href=\"https://github.com/wcrum/chainguard-image-watcher/commit/599fb32f6591eefd602fb35e2bb075fd9b4b2f9c\">599fb32</a>\n- <a href=\"https://github.com/validator-labs/validator-plugin-kubescape/commit/7cf23167b3d9cf95b88547b928869282e4d09106\">7cf2316</a>\n- <a href=\"https://github.com/wcrum/py-cot/commit/fd6e6cc8f9914a3655696b949f180be6984311f9\">fd6e6cc</a>\n- <a href=\"https://github.com/wcrum/py-cot/commit/6636a6e84cfbe530283277a60f3891486f692b6d\">6636a6e</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/validator-labs/validator-plugin-kubescape/commit/7cf23167b3d9cf95b88547b928869282e4d09106\">7cf2316</a>: fix: v1 to v1alpha1\n- <a href=\"https://github.com/validator-labs/validator-plugin-kubescape/commit/c2b954c97180a2a62f5b74469ba133b8957c3a7f\">c2b954c</a>: fix: add ReconcileFlaggedCVERule and update global manifest",
+    "body": "Commits:\n\n- <a href=\"https://github.com/wcrum/hauler/commit/7428614d04f5afd91ff0a1fedea1c4f5b65b055e\">7428614</a>: fix: semverCompare call\n- <a href=\"https://github.com/wcrum/hauler/commit/8d561975e61d7ada39ba9bf5c134c893edf4ef51\">8d56197</a>: fix: remove quotes in image reference",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 124 times)\n2. readme.md (used 52 times)\n3. add (used 45 times)\n4. signed-off-by: (used 40 times)\n5. co-authored-by: (used 34 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 117 times)\n2. readme.md (used 52 times)\n3. add (used 45 times)\n4. signed-off-by: (used 40 times)\n5. co-authored-by: (used 34 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {

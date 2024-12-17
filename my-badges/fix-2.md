@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/validator-labs/validator-plugin-kubescape/commit/7cf23167b3d9cf95b88547b928869282e4d09106">7cf2316</a>: fix: v1 to v1alpha1
-- <a href="https://github.com/validator-labs/validator-plugin-kubescape/commit/c2b954c97180a2a62f5b74469ba133b8957c3a7f">c2b954c</a>: fix: add ReconcileFlaggedCVERule and update global manifest
+- <a href="https://github.com/wcrum/hauler/commit/7428614d04f5afd91ff0a1fedea1c4f5b65b055e">7428614</a>: fix: semverCompare call
+- <a href="https://github.com/wcrum/hauler/commit/8d561975e61d7ada39ba9bf5c134c893edf4ef51">8d56197</a>: fix: remove quotes in image reference
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
