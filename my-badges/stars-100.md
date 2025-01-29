@@ -14,6 +14,7 @@ Repos:
 * <a href="https://github.com/wcrum/wcrum">wcrum/wcrum: ★4</a>
 * <a href="https://github.com/validator-labs/validator-plugin-kubescape">validator-labs/validator-plugin-kubescape: ★4</a>
 * <a href="https://github.com/wcrum/image-shift">wcrum/image-shift: ★3</a>
+* <a href="https://github.com/spectrocloud-labs/imageshift">spectrocloud-labs/imageshift: ★3</a>
 * <a href="https://github.com/wcrum/banner-injector">wcrum/banner-injector: ★2</a>
 * <a href="https://github.com/wcrum/uniformed.dev">wcrum/uniformed.dev: ★2</a>
 * <a href="https://github.com/wcrum/lines">wcrum/lines: ★1</a>
