@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/wcrum/hauler/commit/7428614d04f5afd91ff0a1fedea1c4f5b65b055e">7428614</a>: fix: semverCompare call
-- <a href="https://github.com/wcrum/hauler/commit/8d561975e61d7ada39ba9bf5c134c893edf4ef51">8d56197</a>: fix: remove quotes in image reference
+- <a href="https://github.com/spectrocloud-labs/imageshift/commit/c8f589004945d1d3cffd771b49d057b43aed729a">c8f5890</a>: fix: update README.md
+- <a href="https://github.com/spectrocloud-labs/imageshift/commit/8f2ce62837f7646a93b74a0114c519f9bb7a2863">8f2ce62</a>: fix: update meme
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
