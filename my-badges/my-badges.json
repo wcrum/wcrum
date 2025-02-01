@@ -10,7 +10,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/wcrum/hauler/commit/7428614d04f5afd91ff0a1fedea1c4f5b65b055e\">7428614</a>\n- <a href=\"https://github.com/wcrum/hauler/commit/8d561975e61d7ada39ba9bf5c134c893edf4ef51\">8d56197</a>\n- <a href=\"https://github.com/wcrum/hauler/commit/1593ecc76fa5c8aae976afb40ac805101ffa4304\">1593ecc</a>\n- <a href=\"https://github.com/wcrum/image-shift/commit/cb2f5b4e437798c5550abc1f764d95e66fd0e5b3\">cb2f5b4</a>\n- <a href=\"https://github.com/wcrum/charts/commit/e82cf473ee67c457e6ad2ab635e04fdcb4bcf001\">e82cf47</a>\n- <a href=\"https://github.com/wcrum/charts/commit/e0e1312aba5360010aca8410e8a42c35910983b0\">e0e1312</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/spectrocloud-labs/imageshift/commit/4a37b692e25c23d2ab429d856e190ffd2e0f937a\">4a37b69</a>\n- <a href=\"https://github.com/wcrum/hauler/commit/7428614d04f5afd91ff0a1fedea1c4f5b65b055e\">7428614</a>\n- <a href=\"https://github.com/wcrum/hauler/commit/8d561975e61d7ada39ba9bf5c134c893edf4ef51\">8d56197</a>\n- <a href=\"https://github.com/wcrum/hauler/commit/1593ecc76fa5c8aae976afb40ac805101ffa4304\">1593ecc</a>\n- <a href=\"https://github.com/wcrum/image-shift/commit/cb2f5b4e437798c5550abc1f764d95e66fd0e5b3\">cb2f5b4</a>\n- <a href=\"https://github.com/wcrum/charts/commit/e82cf473ee67c457e6ad2ab635e04fdcb4bcf001\">e82cf47</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/spectrocloud-labs/imageshift/commit/c8f589004945d1d3cffd771b49d057b43aed729a\">c8f5890</a>: fix: update README.md\n- <a href=\"https://github.com/spectrocloud-labs/imageshift/commit/8f2ce62837f7646a93b74a0114c519f9bb7a2863\">8f2ce62</a>: fix: update meme",
+    "body": "Commits:\n\n- <a href=\"https://github.com/spectrocloud-labs/imageshift/commit/b21416f8e67f3a0b94b0331740302b6a966ecf77\">b21416f</a>: fix: add tests move directory\n- <a href=\"https://github.com/spectrocloud-labs/imageshift/commit/e0637b07ced8911f93409250c1cca01a24611b9e\">e0637b0</a>: fix: delete .DS_Store\n\nSigned-off-by: will <30413278+wcrum@users.noreply.github.com>",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/validator-labs/validator-plugin-kubescape/commit/96a1825fb157d227b67e2764bec155ecb1dc0d86\">96a1825</a>: fix: rename charts to chart\n- <a href=\"https://github.com/validator-labs/validator-plugin-kubescape/commit/9a50145500c8d58868f6ff2eae7bb7a0191e7b1c\">9a50145</a>: fix: update v1 to v1alpha1 and CRD\n- <a href=\"https://github.com/validator-labs/validator-plugin-kubescape/commit/62fbc75da3218a10b58a81fd0462f4e926c5512e\">62fbc75</a>: fix: group version, namespace, vuln counter\n\n- 7cf2316 broke install due to group version\n- support separate namespace install for kubescape\n- fix vulnerability counter",
+    "body": "Commits:\n\n- <a href=\"https://github.com/spectrocloud-labs/imageshift/commit/4a37b692e25c23d2ab429d856e190ffd2e0f937a\">4a37b69</a>: fix: priority class and logo\n- <a href=\"https://github.com/spectrocloud-labs/imageshift/commit/c8f589004945d1d3cffd771b49d057b43aed729a\">c8f5890</a>: fix: update README.md\n- <a href=\"https://github.com/spectrocloud-labs/imageshift/commit/8f2ce62837f7646a93b74a0114c519f9bb7a2863\">8f2ce62</a>: fix: update meme",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
